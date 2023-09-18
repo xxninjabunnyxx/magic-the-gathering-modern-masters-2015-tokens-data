@@ -1,0 +1,196 @@
+---
+object: card
+id: b94559ea-b4c8-42e5-81b5-df45b2d711fd
+oracle_id: 3aaf906a-e749-4e86-ac79-97650b92f271
+multiverse_ids: []
+tcgplayer_id: 98656
+name: Eldrazi Spawn
+lang: en
+released_at: '2015-05-22'
+uri: https://api.scryfall.com/cards/b94559ea-b4c8-42e5-81b5-df45b2d711fd
+scryfall_uri: https://scryfall.com/card/tmm2/2/eldrazi-spawn?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/9/b94559ea-b4c8-42e5-81b5-df45b2d711fd.jpg?1562702295
+  normal: https://cards.scryfall.io/normal/front/b/9/b94559ea-b4c8-42e5-81b5-df45b2d711fd.jpg?1562702295
+  large: https://cards.scryfall.io/large/front/b/9/b94559ea-b4c8-42e5-81b5-df45b2d711fd.jpg?1562702295
+  png: https://cards.scryfall.io/png/front/b/9/b94559ea-b4c8-42e5-81b5-df45b2d711fd.png?1562702295
+  art_crop: https://cards.scryfall.io/art_crop/front/b/9/b94559ea-b4c8-42e5-81b5-df45b2d711fd.jpg?1562702295
+  border_crop: https://cards.scryfall.io/border_crop/front/b/9/b94559ea-b4c8-42e5-81b5-df45b2d711fd.jpg?1562702295
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Eldrazi Spawn
+oracle_text: 'Sacrifice this creature: Add {C}.'
+power: '0'
+toughness: '1'
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+all_parts:
+- object: related_card
+  id: e442d1cf-3e17-4719-8d5b-512749c9eee8
+  component: combo_piece
+  name: Emrakul's Hatcher
+  type_line: Creature — Eldrazi Drone
+  uri: https://api.scryfall.com/cards/e442d1cf-3e17-4719-8d5b-512749c9eee8
+- object: related_card
+  id: eeaae110-ef18-44fa-b8a8-c68bd439581e
+  component: token
+  name: Eldrazi Spawn
+  type_line: Token Creature — Eldrazi Spawn
+  uri: https://api.scryfall.com/cards/eeaae110-ef18-44fa-b8a8-c68bd439581e
+- object: related_card
+  id: 2f8e2ef7-fabd-4ae9-8224-5acb3fd7d1ae
+  component: combo_piece
+  name: Rapacious One
+  type_line: Creature — Eldrazi Drone
+  uri: https://api.scryfall.com/cards/2f8e2ef7-fabd-4ae9-8224-5acb3fd7d1ae
+- object: related_card
+  id: b03226d4-837a-4d95-a70b-082ce726765f
+  component: combo_piece
+  name: Kozilek's Predator
+  type_line: Creature — Eldrazi Drone
+  uri: https://api.scryfall.com/cards/b03226d4-837a-4d95-a70b-082ce726765f
+- object: related_card
+  id: f0715429-0b15-47fc-adf4-fdb5c8dfb029
+  component: combo_piece
+  name: Corpsehatch
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/f0715429-0b15-47fc-adf4-fdb5c8dfb029
+- object: related_card
+  id: d8a6849b-6391-4c2c-97bd-267a31e57b38
+  component: combo_piece
+  name: Growth Spasm
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/d8a6849b-6391-4c2c-97bd-267a31e57b38
+- object: related_card
+  id: 90ec1540-e8cb-4edc-a3b3-f71423cb46fc
+  component: combo_piece
+  name: Spawning Breath
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/90ec1540-e8cb-4edc-a3b3-f71423cb46fc
+- object: related_card
+  id: d9b9e2c6-7af7-42ae-91b2-0d17312b3624
+  component: combo_piece
+  name: Pawn of Ulamog
+  type_line: Creature — Vampire Shaman
+  uri: https://api.scryfall.com/cards/d9b9e2c6-7af7-42ae-91b2-0d17312b3624
+- object: related_card
+  id: 55135987-719d-4b7d-a721-b100334a3c68
+  component: combo_piece
+  name: Nest Invader
+  type_line: Creature — Eldrazi Drone
+  uri: https://api.scryfall.com/cards/55135987-719d-4b7d-a721-b100334a3c68
+- object: related_card
+  id: 4a3894e7-5740-4455-8093-57579b1549a7
+  component: combo_piece
+  name: Dread Drone
+  type_line: Creature — Eldrazi Drone
+  uri: https://api.scryfall.com/cards/4a3894e7-5740-4455-8093-57579b1549a7
+- object: related_card
+  id: 9ff46819-bfb3-4448-ab4f-f22ff9e2b2b4
+  component: combo_piece
+  name: Spawnsire of Ulamog
+  type_line: Creature — Eldrazi
+  uri: https://api.scryfall.com/cards/9ff46819-bfb3-4448-ab4f-f22ff9e2b2b4
+- object: related_card
+  id: b9cf2116-7ae5-4b6a-830a-919a55235690
+  component: combo_piece
+  name: Essence Feed
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/b9cf2116-7ae5-4b6a-830a-919a55235690
+- object: related_card
+  id: 270f0e5b-2c46-4816-a195-cfce16570bde
+  component: combo_piece
+  name: Skittering Invasion
+  type_line: Tribal Sorcery — Eldrazi
+  uri: https://api.scryfall.com/cards/270f0e5b-2c46-4816-a195-cfce16570bde
+- object: related_card
+  id: 0e44f7ff-1cfa-4bc4-a0f7-9d71ba48a97a
+  component: combo_piece
+  name: Brood Birthing
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/0e44f7ff-1cfa-4bc4-a0f7-9d71ba48a97a
+- object: related_card
+  id: 245246ae-207b-451e-8b73-97535e9bc885
+  component: combo_piece
+  name: Awakening Zone
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/245246ae-207b-451e-8b73-97535e9bc885
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: f7aa47c6-c1e2-4de5-9a68-4406d84bd6bb
+set: tmm2
+set_name: Modern Masters 2015 Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/f7aa47c6-c1e2-4de5-9a68-4406d84bd6bb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atmm2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tmm2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b94559ea-b4c8-42e5-81b5-df45b2d711fd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3aaf906a-e749-4e86-ac79-97650b92f271&unique=prints
+collector_number: '2'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: f3b52eb4-27b1-4f1d-a24b-882f7b884d1f
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.31'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Eldrazi+Spawn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Eldrazi+Spawn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Eldrazi+Spawn
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/98656?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Eldrazi+Spawn&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Eldrazi+Spawn&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

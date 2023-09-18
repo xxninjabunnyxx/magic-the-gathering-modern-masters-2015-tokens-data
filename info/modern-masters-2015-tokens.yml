@@ -1,0 +1,16 @@
+---
+object: set
+id: f7aa47c6-c1e2-4de5-9a68-4406d84bd6bb
+code: tmm2
+name: Modern Masters 2015 Tokens
+uri: https://api.scryfall.com/sets/f7aa47c6-c1e2-4de5-9a68-4406d84bd6bb
+scryfall_uri: https://scryfall.com/sets/tmm2
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmm2&unique=prints
+released_at: '2015-05-22'
+set_type: token
+card_count: 16
+parent_set_code: mm2
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/mm2.svg?1694404800
